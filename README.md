@@ -15,7 +15,7 @@
 
 Este proyecto es una aplicación web **alucinante** que te permite cargar y visualizar posts desde una API externa con solo un clic. ¡Prepárate para una experiencia única! 🎭🎉
 
-![Enlace Directo](https://desafio-traer-post.vercel.app/)
+[Enlace Directo](https://desafio-traer-post.vercel.app/)
 
 ## 🎢 Características Estelares
 
