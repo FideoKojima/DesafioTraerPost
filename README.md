@@ -1,9 +1,5 @@
 # Proyecto de Visualización de Posts
 
-<p align="center">
-  <img src="https://via.placeholder.com/150x150.png?text=Posts+Viewer" alt="Logo del Proyecto" width="150" height="150">
-</p>
-
 Este proyecto es una aplicación web eficiente que permite a los usuarios cargar y visualizar posts desde una API externa de forma rápida y sencilla.
 
 [Enlace DIrecto](https://desafio-traer-post.vercel.app/)
@@ -28,10 +24,6 @@ Este proyecto es una aplicación web eficiente que permite a los usuarios cargar
 2. La aplicación realiza una solicitud a la API de JSONPlaceholder.
 3. Los posts se cargan y se muestran en la página de manera organizada.
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Diagrama+de+Flujo" alt="Diagrama de Flujo" width="600">
-</p>
-
 ## Instalación
 
 1. Clone este repositorio:
@@ -43,10 +35,6 @@ Este proyecto es una aplicación web eficiente que permite a los usuarios cargar
 ## Uso
 
 Simplemente haga clic en el botón "Traer Posts" y observe cómo se cargan y muestran los datos de forma dinámica.
-
-<p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Uso+de+la+Aplicación" alt="Uso de la Aplicación" width="600">
-</p>
 
 ## Estructura del Proyecto
 
@@ -62,10 +50,6 @@ proyecto/
 
 ## Desarrollador
 
-<p align="center">
-  <img src="https://via.placeholder.com/100x100.png?text=LS" alt="Luis Suarez" width="100" height="100" style="border-radius: 50%;">
-</p>
-
 **Luis Suarez** - [Perfil de GitHub](https://github.com/FideoKojima)
 
 ---
@@ -74,11 +58,3 @@ proyecto/
   ¿Encuentra útil este proyecto? No dude en dejar una estrella ⭐ en GitHub y compartirlo con otros desarrolladores.
 </p>
 
-<p align="center">
-  <a href="https://github.com/tu-usuario/tu-repositorio/stargazers">
-    <img src="https://img.shields.io/github/stars/tu-usuario/tu-repositorio?style=social" alt="GitHub stars">
-  </a>
-  <a href="https://github.com/tu-usuario/tu-repositorio/network/members">
-    <img src="https://img.shields.io/github/forks/tu-usuario/tu-repositorio?style=social" alt="GitHub forks">
-  </a>
-</p>
