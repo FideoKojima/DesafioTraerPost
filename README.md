@@ -23,6 +23,9 @@ Este proyecto es una aplicación web eficiente que permite a los usuarios cargar
 2. La aplicación realiza una solicitud a la API de JSONPlaceholder.
 3. Los posts se cargan y se muestran en la página de manera organizada.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGwwenMzeTJ5dmk0djE3ZTk2cHdraWcycjg5dXV6ajZoeDdyY3J2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPa2TdahY8LAAxy/giphy.gif" alt="API Request Flow" width="500">
+</p>
 
 ## Instalación
 
@@ -49,10 +52,6 @@ proyecto/
 ```
 
 ## Desarrollador
-
-<p align="center">
-  <img src="https://via.placeholder.com/100x100.png?text=LS" alt="Luis Suarez" width="100" height="100" style="border-radius: 50%;">
-</p>
 
 **Luis Suarez** - [Perfil de GitHub](https://github.com/FideoKojima)
 
